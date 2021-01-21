@@ -1,1 +1,2 @@
 this is for master branch
+this is another line for branch1
