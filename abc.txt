@@ -1,2 +1,0 @@
-this is for master ranch to be merged
-this is another line for branch1 and modifed
